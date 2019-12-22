@@ -2,7 +2,7 @@ package com.tarena.fly;
 import java.awt.image.BufferedImage;
 
 /**
- * 英雄机:是飞行物
+ * 英雄机:是飞行物   hhhhhhhhhhh
  */
 public class Hero extends FlyingObject{
 	
